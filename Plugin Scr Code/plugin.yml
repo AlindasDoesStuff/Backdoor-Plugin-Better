@@ -1,5 +1,5 @@
 name: FakePlugin
 version: 1.1
-author: 
+author: TheIceSlime
 main: in.main.hiden.FakePlugin
 api-version: 1.16
